@@ -7,8 +7,8 @@ $(document).ready(function(){
   
   // Your Scripts
 
-  $('#one').corner("bevel");
-  $('#two').corner("notch");
-  $('#three').corner("curl");
+  $('#one').corner('bevel');
+  $('#two').corner('notch');
+  $('#three').corner('curl');
 
 });
